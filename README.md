@@ -9,6 +9,7 @@ E.G. A sentence about who and what you are. Then a sentence about what you've ac
 Name | Description | Demo | Languages and Technologies  | Test frameworks
 ---| --- | --- | --- | --- |
 **[Dinnergy](https://github.com/ocripps24/dinnergy)** | Description | Demo | Swift | XCTest |
+**[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="https://user-images.githubusercontent.com/44544977/60347067-6dfd7180-99b4-11e9-9321-7dea0f95125b.png" width='40'></a> | Ruby on Rails | RSpec, Capybara, Travis (CI)
 
 ## Skills
 
