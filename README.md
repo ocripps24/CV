@@ -1,5 +1,7 @@
 ## Oliver Cripps
 
+[Projects ](#projects) | [Skills ](#skills) | [Education ](#education) | [Experience ](#experience) | [Extra Curricular](#extra_curricular)
+
 E.G. A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Projects
@@ -61,7 +63,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 - Investor Relations Society – Certificate in UK Corporate Investor Relations (Nov-16)
 
-## Professional Experience
+## Experience
 
 **Mediatree** (Oct-15 to Mar-19)    
 *Business Development Manager*  
