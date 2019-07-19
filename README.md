@@ -57,6 +57,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 #### Cardiff University (2007 to 2010)
 
+<a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='75'></a>
 - BSc Business Management
 - Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management, Human Resource Management and Entrepreneurship and Small Business Development.
 
