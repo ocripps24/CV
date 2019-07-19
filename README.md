@@ -10,6 +10,7 @@ Name | Description | Demo | Tech | Test frameworks
 ---| --- | --- | --- | --- |
 **[Dinnergy](https://github.com/ocripps24/dinnergy)** | Description | N/A | Swift | XCTest |
 **[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="https://user-images.githubusercontent.com/44544977/60347067-6dfd7180-99b4-11e9-9321-7dea0f95125b.png" width='40'></a> | Ruby on Rails | RSpec, Capybara, Travis (CI) |
+**[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | Standalone project working with Flutter | N/A | Flutter / Dart | N/A |
 **[MakersBnB](https://github.com/ocripps24/MakersBnb)** | Group engineering project ... | N/A | JavaScript, HTML (Pug), CSS | Nightwatch, Jasmine |
 
 ## Skills
