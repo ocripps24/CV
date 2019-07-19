@@ -26,7 +26,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 ## Education
 
-#### Makers Academy (March-19 to Jun_19)
+#### Makers Academy (March-19 to Jun-19)
 
 - E.G. Curious and passionate about code. [PROVIDE EVIDENCE]
 - E.G. Fast, independent learner [PROVIDE EVIDENCE]
@@ -40,17 +40,16 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 #### Vita-Salute San Raffaele University (2011 to 2015)
 
 - International Medicine (MD)
-- Incomplete
+- --Incomplete--
 - Hospital rotations based on extracting data from patients, transforming it into a standardised format and loading it into their notes.
 - Developed extensive listening and analytical skills through patient interaction and experience in quickly building rapport that engendered trust and confidence with vulnerable patients across a variety of wards.
-- As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system by introducing a new filing system, standardised format and dedicated reviewers significantly improving the quality of work. 
-- I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented. 
+- As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system by introducing a new filing system, standardised format and dedicated reviewers significantly improving the quality of work.
+- I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented.
 
 
 #### Cardiff University (2007 to 2010)
 
 - BSc Business Management
-- Grade
 - Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management, Human Resource Management and Entrepreneurship and Small Business Development.
 
 #### Sherborne School (2002 to 2007)
@@ -66,23 +65,23 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 **Mediatree** (Oct-15 to Mar-19)    
 *Business Development Manager*  
-- Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients. 
-- Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director. 
-- Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders. 
+- Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
+- Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director.
+- Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
 - Strategy – research and creation of new business areas, contribution to company strategy and implementation of new policies.
 - Teamwork – I manage a team of five ranging from daily tasks to project direction and professional development.
-- Training – contribution to onboarding of new staff, direction of future development needs and training organisation. 
+- Training – contribution to onboarding of new staff, direction of future development needs and training organisation.
 - Thinktank – lead role in formation of the company thinktank, content creation and internal event planning.    
 - Website – Project Direction of new company website, including content, design, development, management and training.
-- Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials. 
-- IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support. 
+- Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
+- IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
 - Key projects – ALD IPO, Altran Investor Day, Ardian Slide Design, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
 
 
 ## Extra Curricular
 
 **Sports**
-- Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments. 
+- Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments.
 
 **Royal Marine Cadets**
 - Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigous summer training camp at Garelochhead.
