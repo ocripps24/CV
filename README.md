@@ -54,10 +54,10 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system by introducing a new filing system, standardised format and dedicated reviewers significantly improving the quality of work.
 - I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented.
 
+<a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='50'></a>
 
 #### Cardiff University (2007 to 2010)
 
-<a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='75'></a>
 - BSc Business Management
 - Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management, Human Resource Management and Entrepreneurship and Small Business Development.
 
