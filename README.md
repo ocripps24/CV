@@ -35,6 +35,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 ## Education
 
 <a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>
+
 **Makers Academy** (March-19 to Jun-19)
 
 - E.G. Curious and passionate about code. [PROVIDE EVIDENCE]
@@ -47,6 +48,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. RSpec, Jasmine
 
 <a href="https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program"><img src="Images/unisr.png" height='50'></a>
+
 **Vita-Salute San Raffaele University** (2011 to 2015)
 
 - International Medicine (MD)
@@ -57,6 +59,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='50'></a>
+
 **Cardiff University** (2007 to 2010)
 
 - BSc Business Management
