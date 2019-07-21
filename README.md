@@ -34,7 +34,8 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 ## Education
 
-#### Makers Academy (March-19 to Jun-19)
+<a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>
+**Makers Academy** (March-19 to Jun-19)
 
 - E.G. Curious and passionate about code. [PROVIDE EVIDENCE]
 - E.G. Fast, independent learner [PROVIDE EVIDENCE]
@@ -46,7 +47,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. RSpec, Jasmine
 
 <a href="https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program"><img src="Images/unisr.png" height='50'></a>
-#### Vita-Salute San Raffaele University (2011 to 2015)
+**Vita-Salute San Raffaele University** (2011 to 2015)
 
 - International Medicine (MD)
 - --Incomplete--
@@ -56,17 +57,17 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='50'></a>
-#### Cardiff University (2007 to 2010)
+**Cardiff University** (2007 to 2010)
 
 - BSc Business Management
 - Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management, Human Resource Management and Entrepreneurship and Small Business Development.
 
-#### Sherborne School (2002 to 2007)
+**Sherborne School** (2002 to 2007)
 
 - A-Levels - History (A +100% in a major coursework); Economics (B) and English Literature (B)
 - GCSEs - Biology (A); Chemistry (A); Physics (A); Maths (A); History (A); French (A); Spanish (A); Latin (A); English (B)
 
-#### Any other qualifications
+**Any other qualifications**
 
 - Investor Relations Society – Certificate in UK Corporate Investor Relations (Nov-16)
 
