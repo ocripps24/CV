@@ -8,11 +8,12 @@ E.G. A sentence about who and what you are. Then a sentence about what you've ac
 
 Name | Description | Tech | Timeframe | Demo
 ---| --- | --- | --- | --- |
-**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Final group project building a food waste and planning app in Apple's Swift language. | Swift, XCTest, Xcode | 2 weeks (group) | | <a href="https://youtu.be/Py4tzqebL_Y><img src="Images/youtube.jpeg" width="40"></a>
+**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Final group project building a food waste and planning app in Apple's Swift language. | Swift, XCTest, Xcode | 2 weeks (group) | <a href="https://youtu.be/Py4tzqebL_Y><img src="Images/youtube.jpeg" width="40"></a> |
 **[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | Ruby on Rails, RSpec, Capybara, Travis | 2 weeks (group) | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> |
 **[MakersBnB](https://github.com/ocripps24/MakersBnb)** | Group engineering project ... | JavaScript, HTML (Pug), CSS, Nightwatch, Jasmine | 1 week (group) | N/A |
 **[Instagram Clone](https://github.com/ocripps24/instagram-clone)** | Standalone project working with Flutter | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/mdu1C4mIYps"><img src="Images/youtube.jpeg" width="40"></a> |
 **[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | Standalone project working with Flutter | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/S_WRuDTjXjw"><img src="Images/youtube.jpeg" width="40"></a> |
+**[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. | Wordpress. HTML, CSS | 1 month approximately | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
 
 ## Skills
 
