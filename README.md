@@ -6,11 +6,11 @@ E.G. A sentence about who and what you are. Then a sentence about what you've ac
 
 ## Projects
 
-Name | Description | Demo | Tech | Test frameworks
+Name | Description | Demo | Tech | Timeframe
 ---| --- | --- | --- | --- |
-**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Description | N/A | Swift | XCTest |
-**[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> | Ruby on Rails | RSpec, Capybara, Travis (CI) |
-**[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | Standalone project working with Flutter | N/A | Flutter / Dart | N/A |
+**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Description | N/A | Swift, XCTest, Xcode | 2 weeks (group) |
+**[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> | Ruby on Rails, RSpec, Capybara, Travis | 2 weeks (group) |
+**[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | Standalone project working with Flutter | <a href="https://youtu.be/S_WRuDTjXjw"><img src="Images/youtube.jpg" width="40"></a> | Flutter / Dart | 2-3 days (solo) |
 **[MakersBnB](https://github.com/ocripps24/MakersBnb)** | Group engineering project ... | N/A | JavaScript, HTML (Pug), CSS | Nightwatch, Jasmine |
 
 ## Skills
