@@ -125,10 +125,10 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 ## Interests
 
 **Volunteering**
-- Activities including the London Landmarks half marathon raising money for The Royal Marines Charity and visiting orphanages in Bali whilst raising money for the Solemen charity.  
+Activities including the London Landmarks half marathon raising money for The Royal Marines Charity and visiting orphanages in Bali whilst raising money for the Solemen charity.  
 
 **Sports**
-- Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments.
+Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments.
 
 **Royal Marine Cadets**
-- Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigous summer training camp at Garelochhead.
+Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigous summer training camp at Garelochhead.
