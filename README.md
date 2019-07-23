@@ -2,7 +2,12 @@
 
 [Projects ](#projects) | [Skills ](#skills) | [Education ](#education) | [Experience ](#experience) | [Extra Curricular](#extra_curricular)
 
-E.G. A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+E.G. A sentence about who and what you are.
+-
+Then a sentence about what you've achieved.
+-
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+-
 
 ## Projects
 
@@ -13,7 +18,13 @@ Name | Description | Tech | Timeframe | Demo
 **[MakersBnB](https://github.com/ocripps24/MakersBnb)** | Group engineering project ... | JavaScript, HTML (Pug), CSS, Nightwatch, Jasmine | 1 week (group) | <a href=""><img src="Images/heroku.png" width='40'></a> |
 **[Instagram Clone](https://github.com/ocripps24/instagram-clone)** | Standalone project working with Flutter | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/mdu1C4mIYps"><img src="Images/youtube.png" width="40"></a> |
 **[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | Standalone project working with Flutter | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/S_WRuDTjXjw"><img src="Images/youtube.png" width="40"></a> |
-**[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. | Wordpress. HTML, CSS | 1 month approximately | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
+
+## Websites
+
+Name | Description | Tech | Role | Link
+---| --- | --- | --- | --- |
+**[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. | Wordpress, HTML, CSS | Design, Development, Deployment | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
+**Mediatree Website** | I lead the redevelopment of Mediatree's award-winning new company website, working on every aspect of the process aside from the development. I have written a blog post expanding on the project <a href="http://www.olivercripps.com/2019/06/mediatrees-new-home/">here.</a> | Ajax, HTML, CSS, Wordpress | Project Director | <a href="https://www.media-tree.com/"><img src="Images/mediatree.png" width="40"></a> |
 
 ## Skills
 
@@ -53,44 +64,41 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 **Vita-Salute San Raffaele University** (2011 to 2015)
 
-- International Medicine (MD)
-- --Incomplete--
-- Hospital rotations based on extracting data from patients, transforming it into a standardised format and loading it into their notes.
-- Developed extensive listening and analytical skills through patient interaction and experience in quickly building rapport that engendered trust and confidence with vulnerable patients across a variety of wards.
-- As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system by introducing a new filing system, standardised format and dedicated reviewers significantly improving the quality of work.
-- I held regular meetings with the course directors to discuss class feedback and suggest improvements to be implemented.
+- International Medicine (MD) I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases. I
+- As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system adopted by all students and held regular meetings with the course directors.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='50'></a>
 
 **Cardiff University** (2007 to 2010)
 
 - BSc Business Management
-- Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management, Human Resource Management and Entrepreneurship and Small Business Development.
 
 **Sherborne School** (2002 to 2007)
 
-- A-Levels - History (A +100% in a major coursework); Economics (B) and English Literature (B)
+- A-Levels - History (A + 100% in a major coursework); Economics (B) and English Literature (B)
 - GCSEs - Biology (A); Chemistry (A); Physics (A); Maths (A); History (A); French (A); Spanish (A); Latin (A); English (B)
 
-**Any other qualifications**
+**Other qualifications**
 
 - Investor Relations Society – Certificate in UK Corporate Investor Relations (Nov-16)
 
 ## Experience
 
+<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='50'></a>
+
 **Mediatree** (Oct-15 to Mar-19)    
-*Business Development Manager*  
+*Several roles ending as Business Development Manager*  
 - Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
 - Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director.
 - Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
 - Strategy – research and creation of new business areas, contribution to company strategy and implementation of new policies.
-- Teamwork – I manage a team of five ranging from daily tasks to project direction and professional development.
-- Training – contribution to onboarding of new staff, direction of future development needs and training organisation.
+- Teamwork – I managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
+- Training – I contributed to onboarding of new staff, direction of future development needs and training organisation.
 - Thinktank – lead role in formation of the company thinktank, content creation and internal event planning.    
 - Website – Project Direction of new company website, including content, design, development, management and training.
 - Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
 - IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
-- Key projects – ALD IPO, Altran Investor Day, Ardian Slide Design, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
+- Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
 
 
 ## Extra Curricular
