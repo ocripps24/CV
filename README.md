@@ -3,18 +3,20 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/oliver-cripps/">
-<img src="Images/linkedin.png" hspace="50" height="45" width="42"></a>
+<img src="Images/linkedin.png" hspace="50" height="45" width="45"></a>
 <a href="http://www.olivercripps.com/">
-<img src="Images/olivercripps.png" hspace="50" height="45" width="42"></a>
+<img src="Images/olivercripps.png" hspace="50" height="45" width="45"></a>
 <a href="https://www.codewars.com/users/olivercripps">
-<img src="Images/codewars.png" hspace="50" height="45" width="42"></a></p>
+<img src="Images/codewars.png" hspace="50" height="45" width="45"></a></p>
 
 <ul align="center">
+
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Extra Curricular](#extra_curricular)
+[Extra Curricular ](#extra_curricular)
+
 </ul>
 
 E.G. A sentence about who and what you are.
