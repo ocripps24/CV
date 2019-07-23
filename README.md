@@ -70,8 +70,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 ## Experience
 
-<a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>
-
+<a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>   
 **Makers Academy** (March-19 to Jun-19)   
 *A 16 week intensive developer bootcamp*
 
@@ -83,8 +82,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. Ruby, Rails, JavaScript
 - E.G. RSpec, Jasmine
 
-<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>
-
+<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
 *Several roles ending as Business Development Manager*  
 - Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
