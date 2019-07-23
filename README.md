@@ -72,9 +72,9 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 <a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>
 
-**Makers Academy** (March-19 to Jun-19)
-
+**Makers Academy** (March-19 to Jun-19)   
 *A 16 week intensive developer bootcamp*
+
 - E.G. Fast, independent learner [PROVIDE EVIDENCE]
 - E.G. Great collaborator [PROVIDE EVIDENCE]
 
@@ -105,7 +105,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 **Vita-Salute San Raffaele University** (2011 to 2015)
 
-- International Medicine (MD) I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases. 
+- International Medicine (MD) I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases.
 - As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system adopted by all students and held regular meetings with the course directors.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='44'></a>
