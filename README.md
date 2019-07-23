@@ -1,6 +1,21 @@
-## Oliver Cripps
+<h1 align="center">Oliver Cripps</h1>
+<h4 align="center">Junior Developer</h4>
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/oliver-cripps/">
+<img src="Images/linkedin.png" hspace="50" height="45" width="42"></a>
+<a href="http://www.olivercripps.com/">
+<img src="Images/olivercripps.png" hspace="50" height="45" width="42"></a>
+<a href="https://www.codewars.com/users/olivercripps">
+<img src="Images/codewars.png" hspace="50" height="45" width="42"></a></p>
 
-[Projects ](#projects) | [Skills ](#skills) | [Education ](#education) | [Experience ](#experience) | [Extra Curricular](#extra_curricular)
+<ul align="center">
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Extra Curricular](#extra_curricular)
+</ul>
 
 E.G. A sentence about who and what you are.
 -
@@ -67,7 +82,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - International Medicine (MD) I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases. I
 - As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system adopted by all students and held regular meetings with the course directors.
 
-<a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='50'></a>
+<a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='44'></a>
 
 **Cardiff University** (2007 to 2010)
 
@@ -84,7 +99,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 ## Experience
 
-<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='50'></a>
+<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>
 
 **Mediatree** (Oct-15 to Mar-19)    
 *Several roles ending as Business Development Manager*  
