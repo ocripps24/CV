@@ -11,20 +11,26 @@
 
 <ul align="center">
 
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Education ](#education) |
-[Experience ](#experience) |
-[Extra Curricular ](#extra_curricular)
+[Background](#background) |
+[Projects](#projects) |
+[Websites](#websites) |
+[Skills](#skills) |
+[Experience](#experience) |
+[Education](#education) |
+[Interests](#interests)
 
 </ul>
 
-E.G. A sentence about who and what you are.
--
-Then a sentence about what you've achieved.
--
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
--
+## Background
+
+- E.G. A sentence about who and what you are.
+- I love discovering how things work and then learning how to make them myself. My passion for tech began with a Christmas card made in Microsoft Paint back in 1995, followed by a GTA cheatcode website a year later. Since then I've been developing my creativity and professional skillset across medical and financial disciplines.
+
+- Then a sentence about what you've achieved.
+- Working in Investor Relations gave me solid grounding in several key professional areas: [list here]. Working with big gave companies ... Detail orientation.
+
+- And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+- Having recently completed a developer bootcamp at Makers, I am looking for xxx. I look forward to bringing a smart-working, reliable and positive ethos to the team.
 
 ## Projects
 
@@ -40,7 +46,7 @@ Name | Description | Tech | Timeframe | Demo
 
 Name | Description | Tech | Role | Link
 ---| --- | --- | --- | --- |
-**[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. | Wordpress, HTML, CSS | Design, Development, Deployment | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
+**[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. I've explored the process in more detail in this <a href="http://www.olivercripps.com/2019/04/udugu-website/">blog post.</a> | Wordpress, HTML, CSS | Design, Development, Deployment | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
 **Mediatree Website** | I lead the redevelopment of Mediatree's award-winning new company website, working on every aspect of the process aside from the development. I have written a blog post expanding on the project <a href="http://www.olivercripps.com/2019/06/mediatrees-new-home/">here.</a> | Ajax, HTML, CSS, Wordpress | Project Director | <a href="https://www.media-tree.com/"><img src="Images/mediatree.png" width="40"></a> |
 
 ## Skills
@@ -62,13 +68,12 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. I built this, made this, broke this, fixed this, etc.
 - E.G. A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Experience
 
 <a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>
 
 **Makers Academy** (March-19 to Jun-19)
-
-- E.G. Curious and passionate about code. [PROVIDE EVIDENCE]
+*A 16 week intensive developer bootcamp*
 - E.G. Fast, independent learner [PROVIDE EVIDENCE]
 - E.G. Great collaborator [PROVIDE EVIDENCE]
 
@@ -76,6 +81,24 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. Agile/XP
 - E.G. Ruby, Rails, JavaScript
 - E.G. RSpec, Jasmine
+
+<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>
+
+**Mediatree** (Oct-15 to Mar-19)    
+*Several roles ending as Business Development Manager*  
+- Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
+- Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director.
+- Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
+- Strategy – research and creation of new business areas, contribution to company strategy and implementation of new policies.
+- Teamwork – I managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
+- Training – I contributed to onboarding of new staff, direction of future development needs and training organisation.
+- Thinktank – lead role in formation of the company thinktank, content creation and internal event planning.    
+- Website – Project Direction of new company website, including content, design, development, management and training.
+- Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
+- IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
+- Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
+
+## Education
 
 <a href="https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program"><img src="Images/unisr.png" height='50'></a>
 
@@ -99,26 +122,10 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 
 - Investor Relations Society – Certificate in UK Corporate Investor Relations (Nov-16)
 
-## Experience
+## Interests
 
-<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>
-
-**Mediatree** (Oct-15 to Mar-19)    
-*Several roles ending as Business Development Manager*  
-- Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
-- Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director.
-- Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
-- Strategy – research and creation of new business areas, contribution to company strategy and implementation of new policies.
-- Teamwork – I managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
-- Training – I contributed to onboarding of new staff, direction of future development needs and training organisation.
-- Thinktank – lead role in formation of the company thinktank, content creation and internal event planning.    
-- Website – Project Direction of new company website, including content, design, development, management and training.
-- Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
-- IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
-- Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
-
-
-## Extra Curricular
+**Volunteering**
+- Activities including the London Landmarks half marathon raising money for The Royal Marines Charity and visiting orphanages in Bali whilst raising money for the Solemen charity.  
 
 **Sports**
 - Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments.
