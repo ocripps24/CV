@@ -25,7 +25,7 @@
 
 I love discovering how things work and then learning how to make them myself. My passion for tech began with a Christmas card made in Microsoft Paint back in 1995, followed by a GTA cheatcode website a year later. Since then I've been developing my creativity and professional skillset across medical and financial disciplines.
 
-Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with c-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech. 
+Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with c-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech.
 
 I'm excited to join company delivering exciting projects with intelligent design that I can bring my attention to detail and creativity to as well as continuing my personal learning journey in a creative and collaborative way.
 
@@ -72,13 +72,10 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 **Makers Academy** (March-19 to Jun-19)   
 *A 16 week intensive developer bootcamp*
 
-- E.G. Fast, independent learner [PROVIDE EVIDENCE]
-- E.G. Great collaborator [PROVIDE EVIDENCE]
-
-- E.G. OOP, TDD, MVC, DDD
-- E.G. Agile/XP
-- E.G. Ruby, Rails, JavaScript
-- E.G. RSpec, Jasmine
+- Intensive exposure to languages including Ruby, JavaScript and Swift alongside frameworks like Rails.
+- High-Quality processes such as TDD, Agile software development and Extreme Programming (XP)
+- Collaborative working via pair-programming and group engineering projects
+- Core development concepts/workflows: CI/CD, MVC, OOP, SRP, testing, typing fluency, git and debugging
 
 <a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
