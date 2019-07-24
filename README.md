@@ -25,7 +25,7 @@
 
 I love discovering how things work and then learning how to make them myself. My passion for tech began with a Christmas card made in Microsoft Paint back in 1995, followed by a GTA cheatcode website a year later. Since then I've been developing my creativity and professional skillset across medical and financial disciplines.
 
-Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with c-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech.
+Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with C-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech.
 
 I'm excited to join company delivering exciting projects with intelligent design that I can bring my attention to detail and creativity to as well as continuing my personal learning journey in a creative and collaborative way.
 
@@ -33,10 +33,10 @@ I'm excited to join company delivering exciting projects with intelligent design
 
 Name | Description | Tech | Timeframe | Demo
 ---| --- | --- | --- | --- |
-**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Final group project building a food waste and planning app in Apple's Swift language. Users add thier ingredients to receive recipes based on what they currently have. Further details can be find in my <a href="http://www.olivercripps.com/2019/06/dinnergy-app-our-final-project-at-makers/">blog.</a> | Swift, XCTest, Xcode, SQLite, SwiftLint, Travis | 2 weeks (group) | <a href="https://youtu.be/Py4tzqebL_Y"><img src="Images/youtube.png" width="40"></a> |
+**[Dinnergy](https://github.com/ocripps24/dinnergy)** | Final group project building a food waste and planning app in Apple's Swift language. Users add thier ingredients to receive recipes based on what they currently have. I discuss some of the challenges faced in my <a href="http://www.olivercripps.com/2019/06/dinnergy-app-our-final-project-at-makers/">blog.</a> | Swift, XCTest, Xcode, SQLite, SwiftLint, Travis | 2 weeks (group) | <a href="https://youtu.be/Py4tzqebL_Y"><img src="Images/youtube.png" width="40"></a> |
 **[Bearbook](https://github.com/ocripps24/Acebook-The-Brave-Bears)** | Acebook is a social media clone featuring user walls, posts and comments. It was a group engineering project with a focus on Agile and High Quality processes. | Ruby on Rails, RSpec, Capybara, Travis, Rubocop, PSQL | 2 weeks (group) | <a href="http://acebook-the-brave-bears.herokuapp.com/"><img src="Images/heroku.png" width='40'></a> |
 **[MakersBnB](https://github.com/ocripps24/MakersBnb)** | A simple clone of AirBnB with signup/login and adding / editing / viewing listings as features. Our first group engineering project with just 4 days to work with and a new tech stack represented a genuine challenge. Further discussion on my <a href="http://www.olivercripps.com/2019/06/makersbnb-engineering-project/">blog.</a> | JavaScript, Node.js, Express, HTML (Pug), CSS, Nightwatch, Jasmine | 1 week (group) | <a href=""><img src="Images/heroku.png" width='40'></a> |
-**[Instagram Clone](https://github.com/ocripps24/instagram-clone)** | Following the excitement of building the Netflix clone, I wanted to continue my exploration of Dart / Flutter by creating this Instagram clone. I learnt several new concepts and felt much more comfortable working with Flutter this time around. | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/mdu1C4mIYps"><img src="Images/youtube.png" width="40"></a> |
+**[Instagram Clone](https://github.com/ocripps24/instagram-clone)** | Following the excitement of building the Netflix clone, I wanted to continue my exploration of Dart / Flutter by creating this clone of the Instagram UI. I learnt several new concepts and felt much more comfortable working with Flutter this time around. | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/mdu1C4mIYps"><img src="Images/youtube.png" width="40"></a> |
 **[Netflix Clone](https://github.com/ocripps24/netflix-clone)** | After attending a Flutter meetup, I was excited to see what could be achieved with the language and I wanted to try it myself by building the home page UI of a popular tech service, alongside a tutorial. | Flutter / Dart | 2-3 days (solo) | <a href="https://youtu.be/S_WRuDTjXjw"><img src="Images/youtube.png" width="40"></a> |
 
 ## Websites
@@ -67,7 +67,7 @@ I take great satisfaction from creating things and the creativity and intelligen
 
 I have always had a passion for learning and been able to dictate my own learning plans and goals. My time at Makers has enabled me to expand upon these skills while considering new concepts like 'Mastery'. During my time at Makers, I had to use these skills alongside a growth mindset to stay on top of the course materials.
 
-- I am able to break learning goals into researchable chunks and identify helpful documentation. I also choose to keep a learning log and reflect on my progress when taking on substantial learning objectives. 
+- I am able to break learning goals into researchable chunks and identify helpful documentation. I also choose to keep a learning log and reflect on my progress when taking on substantial learning objectives.
 - I completed 100+ hours of studying to attain a Certificate in UK Corporate Investor Relations from the IR Society.
 - I consistently engage with Massive Open Online Courses covering a variety of personal interests.
 
