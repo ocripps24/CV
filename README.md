@@ -29,7 +29,6 @@ Working in Investor Relations gave me solid grounding in several key professiona
 
 I'm excited to join company delivering exciting projects with intelligent design that I can bring my attention to detail and creativity to as well as continuing my personal learning journey in a creative and collaborative way.
 
-
 ## Projects
 
 Name | Description | Tech | Timeframe | Demo
@@ -45,11 +44,22 @@ Name | Description | Tech | Timeframe | Demo
 Name | Description | Tech | Role | Link
 ---| --- | --- | --- | --- |
 **[Udugu Website](https://github.com/ocripps24/udugu)** | Development of a client website built using Semplice and custom HTML/CSS elements. A few elements from the custom code base are shown in the repo. I've explored the process in more detail in this <a href="http://www.olivercripps.com/2019/04/udugu-website/">blog post.</a> | Wordpress, HTML, CSS | Design, Development, Deployment | <a href="http://www.udugufs.com/"><img src="Images/udugu.png" width="40"></a> |
-**Mediatree Website** | I lead the redevelopment of Mediatree's award-winning new company website, working on every aspect of the process aside from the development. I have written a blog post expanding on the project <a href="http://www.olivercripps.com/2019/06/mediatrees-new-home/">here.</a> | Ajax, HTML, CSS, Wordpress | Project Director | <a href="https://www.media-tree.com/"><img src="Images/mediatree.png" width="40"></a> |
+**Mediatree Website** | I lead the redevelopment of Mediatree's <a href="https://www.cssdesignawards.com/sites/mediatree/34667/">award-winning</a> new company website, working on every aspect of the process aside from the development. I have written a blog post expanding on the project <a href="http://www.olivercripps.com/2019/06/mediatrees-new-home/">here.</a> | Ajax, HTML, CSS, Wordpress | Project Director | <a href="https://www.media-tree.com/"><img src="Images/mediatree.png" width="40"></a> |
 
 ## Skills
 
-#### This Skill
+
+
+#### Analytical thinking (debugging, tdd, problem solving)
+
+Through medical school and now working with code, I have built strong analytical frameworks to diagnose issues methodically and construct a pathway to solve and move beyond issues/errors. Particularly as a result of using TDD, I have grown to enjoy debugging. It is an important part of my learning process and I enjoy applying my cross-disciplinary skills to aid this process.
+
+- Most recently I fixed our first group <a href="https://github.com/ocripps24/MakersBnb">project</a> that had broken and whose instructions had gone missing.
+- I started by reviewing the documentation for the frameworks to rebuild the instruction base and continued by debugging each of the broken tests until they passed. I finished by connecting the project to Travis. 
+
+#### Creativity (perseverance in learning, adaptable to different tech)
+
+website design, thinktank booklets, client presentations
 
 E.G. Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -57,9 +67,18 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - E.G. Achievements
 - E.G. Evidence
 
-#### Another Skill
+- E.G. I achieved A during my work at B (job, or otherwise)
+- E.G. I contributed to the growth of X while doing Y (job, or otherwise)
+- E.G. I built this, made this, broke this, fixed this, etc.
+- E.G. A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Self-directed Learner
 
 E.G. Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- E.G. Experience
+- E.G. Achievements
+- E.G. Evidence
 
 - E.G. I achieved A during my work at B (job, or otherwise)
 - E.G. I contributed to the growth of X while doing Y (job, or otherwise)
@@ -75,7 +94,7 @@ E.G. Descriptive paragraph of how capable you are at this skill and, if relevant
 - Intensive exposure to languages including Ruby, JavaScript and Swift alongside frameworks like Rails.
 - High-Quality processes such as TDD, Agile software development and Extreme Programming (XP)
 - Collaborative working via pair-programming and group engineering projects
-- Core development concepts/workflows: CI/CD, MVC, OOP, SRP, testing, typing fluency, git and debugging
+- Core development concepts/workflows: CI/CD, MVC, OOP, SOLID, testing, typing fluency, git and debugging
 
 <a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
