@@ -67,7 +67,7 @@ I take great satisfaction from creating things and the creativity and intelligen
 
 I have always had a passion for learning and been able to dictate my own learning plans and goals. My time at Makers has enabled me to expand upon these skills while considering new concepts like 'Mastery'. During my time at Makers, I had to use these skills alongside a growth mindset to stay on top of the course materials.
 
-- I am able to break learning goals into researchable chunks and find helpful documentation to move forwards with my work.
+- I am able to break learning goals into researchable chunks and identify helpful documentation. I also choose to keep a learning log and reflect on my progress when taking on substantial learning objectives. 
 - I completed 100+ hours of studying to attain a Certificate in UK Corporate Investor Relations from the IR Society.
 - I consistently engage with Massive Open Online Courses covering a variety of personal interests.
 
