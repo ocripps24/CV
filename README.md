@@ -48,42 +48,28 @@ Name | Description | Tech | Role | Link
 
 ## Skills
 
-
-
-#### Analytical thinking (debugging, tdd, problem solving)
+#### Analytical thinking
 
 Through medical school and now working with code, I have built strong analytical frameworks to diagnose issues methodically and construct a pathway to solve and move beyond issues/errors. Particularly as a result of using TDD, I have grown to enjoy debugging. It is an important part of my learning process and I enjoy applying my cross-disciplinary skills to aid this process.
 
 - Most recently I fixed our first group <a href="https://github.com/ocripps24/MakersBnb">project</a> that had broken and whose instructions had gone missing.
-- I started by reviewing the documentation for the frameworks to rebuild the instruction base and continued by debugging each of the broken tests until they passed. I finished by connecting the project to Travis. 
+- I started by reviewing the documentation for the frameworks to rebuild the instruction base and continued by debugging each of the broken tests until they passed. I finished by connecting the project to Travis.
 
-#### Creativity (perseverance in learning, adaptable to different tech)
+#### Creativity
 
-website design, thinktank booklets, client presentations
+I take great satisfaction from creating things and the creativity and intelligence in design of good products. My creativity stems from a desire and perseverance to understand how something works and the challenge of learning new skills in the pursuit of creation. This is particularly true with graphic design software.
 
-E.G. Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- E.G. Experience
-- E.G. Achievements
-- E.G. Evidence
-
-- E.G. I achieved A during my work at B (job, or otherwise)
-- E.G. I contributed to the growth of X while doing Y (job, or otherwise)
-- E.G. I built this, made this, broke this, fixed this, etc.
-- E.G. A link to some on-line evidence (blogs, videos, articles, etc.)
+- After driving an increase in design projects at my previous employer, I had to adapt and teach myself how to use several of the Adobe Creative Cloud apps to meet demand, facilitate faster project turnaround and often make live changes or suggestions during client meetings.
+- When faced with a recent client <a href="http://www.udugufs.com/">website</a> project without the resources for a designer, I applied my skills to create the entire website design from scratch ensuring that it adhered to their brand guidelines and tone of audience.
+- I've also created booklets for company thinktank events, client presentations, branding elements as well as extending the work of other designers in various capacities.
 
 #### Self-directed Learner
 
-E.G. Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have always had a passion for learning and been able to dictate my own learning plans and goals. My time at Makers has enabled me to expand upon these skills while considering new concepts like 'Mastery'. During my time at Makers, I had to use these skills alongside a growth mindset to stay on top of the course materials.
 
-- E.G. Experience
-- E.G. Achievements
-- E.G. Evidence
-
-- E.G. I achieved A during my work at B (job, or otherwise)
-- E.G. I contributed to the growth of X while doing Y (job, or otherwise)
-- E.G. I built this, made this, broke this, fixed this, etc.
-- E.G. A link to some on-line evidence (blogs, videos, articles, etc.)
+- I am able to break learning goals into researchable chunks and find helpful documentation to move forwards with my work.
+- I completed 100+ hours of studying to attain a Certificate in UK Corporate Investor Relations from the IR Society.
+- I consistently engage with Massive Open Online Courses covering a variety of personal interests.
 
 ## Experience
 
