@@ -100,15 +100,17 @@ I have always had a passion for learning and been able to dictate my own learnin
 ## Education
 
 <a href="https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program"><img src="Images/unisr.png" height='50'></a>   
-**Vita-Salute San Raffaele University** (2011 to 2015)
-
-- International Medicine (MD) I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases.
+**Vita-Salute San Raffaele University** (2011 to 2015)   
+*International Medicine (MD) - Incomplete*
+- I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases.
 - As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system adopted by all students and held regular meetings with the course directors.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='44'></a>   
-**Cardiff University** (2007 to 2010)
+**Cardiff University** (2007 to 2010)   
+*BSc Business Management*
 
-- BSc Business Management
+- Modules included – Marketing & Strategy, Operations Management, Managerial Accounting & Finance, Strategic Management,
+Human Resource Management and Entrepreneurship and Small Business Development.
 
 **Sherborne School** (2002 to 2007)
 
