@@ -82,7 +82,7 @@ I have always had a passion for learning and been able to dictate my own learnin
 - Collaborative working via pair-programming and group engineering projects
 - Core development concepts/workflows: CI/CD, MVC, OOP, SOLID, testing, typing fluency, git and debugging
 
-<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='44'></a>   
+<a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='40'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
 *Several roles ending as Business Development Manager*  
 - Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
