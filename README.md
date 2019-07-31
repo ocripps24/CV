@@ -131,6 +131,6 @@ Activities including the London Landmarks half marathon raising money for The Ro
 
 Final of National Rugby Competition under 15s level, which was played at Twickenham. County rugby for Dorset and divisional Dorset and Wilts. 1st XV Rugby for 2 years at Sherborne School. Participated in university football tournaments.
 
-**Royal Marine Cadets**
+**Royal Marines Cadets**
 
 Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigous summer training camp at Garelochhead.
