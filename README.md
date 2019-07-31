@@ -27,7 +27,7 @@ I love discovering how things work and then learning how to make them myself. My
 
 Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with C-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech.
 
-I'm excited to join company delivering exciting projects with intelligent design that I can bring my attention to detail and creativity to as well as continuing my personal learning journey in a creative and collaborative way.
+I'm excited to join a company delivering innovative projects with intelligent design where I can express my creativity and attention to detail as well as continuing my personal learning journey.
 
 ## Projects
 
@@ -57,19 +57,19 @@ Through medical school and now working with code, I have built strong analytical
 
 #### Creativity
 
-I take great satisfaction from creating things and the creativity and intelligence in design of good products. My creativity stems from a desire and perseverance to understand how something works and the challenge of learning new skills in the pursuit of creation. This is particularly true with graphic design software.
+I take great satisfaction from building things with creative and intelligent design. My creativity stems from a desire and perseverance to understand how something works and the challenge of learning new skills in the pursuit of creation. This is particularly true with graphic design software.
 
 - After driving an increase in design projects at my previous employer, I had to adapt and teach myself how to use several of the Adobe Creative Cloud apps to meet demand, facilitate faster project turnaround and often make live changes or suggestions during client meetings.
 - When faced with a recent client <a href="http://www.udugufs.com/">website</a> project without the resources for a designer, I applied my skills to create the entire website design from scratch ensuring that it adhered to their brand guidelines and tone of audience.
-- I've also created booklets for company thinktank events, client presentations, branding elements as well as extending the work of other designers in various capacities.
+- Created booklets for company thinktank events, client presentations, branding elements as well as extending the work of other designers in various capacities.
 
 #### Self-directed Learner
 
-I have always had a passion for learning and been able to dictate my own learning plans and goals. My time at Makers has enabled me to expand upon these skills while considering new concepts like 'Mastery'. During my time at Makers, I had to use these skills alongside a growth mindset to stay on top of the course materials.
+I have always had a passion for learning and been able to dictate my own self-driven learning plans and goals. My time at Makers has enabled me to expand upon these skills while considering new concepts like 'Mastery'. During my time at Makers, I had to use these skills alongside a growth mindset to stay on top of the course materials.
 
-- I am able to break learning goals into researchable chunks and identify helpful documentation. I also choose to keep a learning log and reflect on my progress when taking on substantial learning objectives.
-- I completed 100+ hours of studying to attain a Certificate in UK Corporate Investor Relations from the IR Society.
-- I consistently engage with Massive Open Online Courses covering a variety of personal interests.
+- Able to break higher learning goals into researchable chunks and identify helpful documentation. I also choose to keep a learning log and reflect on my progress when taking on substantial learning objectives.
+- Completed 100+ hours of studying to attain a Certificate in UK Corporate Investor Relations from the IR Society.
+- Consistently engage with Massive Open Online Courses covering a variety of personal interests.
 
 ## Experience
 
@@ -85,16 +85,16 @@ I have always had a passion for learning and been able to dictate my own learnin
 <a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='40'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
 *Several roles ending as Business Development Manager*  
-- Origination – pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
-- Budgeting – creation and management of budgets between £5,000 and £300,000 as the Project Director.
+- Origination – Pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
+- Budgeting – Creation and management of budgets between £5,000 and £300,000 as the Project Director.
 - Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
-- Strategy – research and creation of new business areas, contribution to company strategy and implementation of new policies.
-- Teamwork – I managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
-- Training – I contributed to onboarding of new staff, direction of future development needs and training organisation.
-- Thinktank – lead role in formation of the company thinktank, content creation and internal event planning.    
+- Strategy – Research and creation of new business areas, contribution to company strategy and implementation of new policies.
+- Teamwork – Managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
+- Training – Contributed to onboarding of new staff, direction of future development needs and training organisation.
+- Thinktank – Lead role in formation of the company thinktank, content creation and internal event planning.    
 - Website – Project Direction of new company website, including content, design, development, management and training.
-- Design – lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
-- IT – implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
+- Design – Lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
+- IT – Implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
 - Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
 
 ## Education
@@ -102,7 +102,7 @@ I have always had a passion for learning and been able to dictate my own learnin
 <a href="https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program"><img src="Images/unisr.png" height='50'></a>   
 **Vita-Salute San Raffaele University** (2011 to 2015)   
 *International Medicine (MD) - Incomplete*
-- I developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases.
+- Developed extensive listening and analytical skills through patient interaction as well as skills in research and working in complex collaborative environments discussing patient cases.
 - As the elected class representative during my second year, I oversaw the organisation of a collective effort note taking system adopted by all students and held regular meetings with the course directors.
 
 <a href="https://www.cardiff.ac.uk/business-school"><img src="Images/cardiffUni.jpg" height='44'></a>   
