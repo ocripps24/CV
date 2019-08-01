@@ -75,7 +75,7 @@ I have always had a passion for learning and been able to dictate my own self-dr
 
 <a href="https://makers.tech/"><img src="Images/makers.png" height='50'></a>   
 **Makers Academy** (March-19 to Jun-19)   
-*A 16 week intensive developer bootcamp*
+*A 16-week intensive developer bootcamp*
 
 - Intensive exposure to languages including Ruby, JavaScript and Swift alongside frameworks like Rails.
 - High-Quality processes such as TDD, Agile software development and Extreme Programming (XP)
@@ -133,4 +133,4 @@ Final of National Rugby Competition under 15s level, which was played at Twicken
 
 **Royal Marines Cadets**
 
-Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigous summer training camp at Garelochhead.
+Non-Commissioned Officer in charge of my own section responsible for teaching weapon handling, blank round fire section attacks, parade and survival drills. Also accepted onto a prestigious summer training camp at Garelochhead.
