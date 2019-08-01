@@ -23,7 +23,7 @@
 
 ## Background
 
-I love discovering how things work and then learning how to make them myself. My passion for tech began with a Christmas card made in Microsoft Paint back in 1995, followed by a GTA cheatcode website a year later. Since then I've been developing my creativity and professional skillset across medical and financial disciplines.
+I love discovering how things work and then learning how to make them myself. My passion for tech began with a Christmas card made in Microsoft Paint back in 1995, followed by a GTA cheat code website a year later. Since then I've been developing my creativity and professional skillset across medical and financial disciplines.
 
 Working in Investor Relations gave me solid grounding in several key professional areas, managing high-stakes projects with C-suite level stakeholders and working efficiently under pressure. I also had the opportunity to manage several creative and technical projects further feeding my love for and interest in working in tech.
 
@@ -85,15 +85,14 @@ I have always had a passion for learning and been able to dictate my own self-dr
 <a href="https://www.media-tree.com/"><img src="Images/mediatree.jpg" height='40'></a>   
 **Mediatree** (Oct-15 to Mar-19)    
 *Several roles ending as Business Development Manager*  
+- Strategy – Research and creation of new business areas, contribution to company strategy, regular meetings with the CEO and company directors, and implementation of new policies.
 - Origination – Pipeline research, creation of pitch documents, client pitch meetings and contracting of new clients.
-- Budgeting – Creation and management of budgets between £5,000 and £300,000 as the Project Director.
-- Project management – development of project timetables, chairing steering meetings and co-ordination of stakeholders.
-- Strategy – Research and creation of new business areas, contribution to company strategy and implementation of new policies.
+- Project management – Development of project timetables, chairing steering meetings, co-ordination of project stakeholders, and creation and management of budgets between £5,000 and £300,000 as the Project Director.
 - Teamwork – Managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
-- Training – Contributed to onboarding of new staff, direction of future development needs and training organisation.
+- Training – Developed onboarding plans for new staff, direction of future development needs, training organisation and held regular workshops at team and company levels.
 - Thinktank – Lead role in formation of the company thinktank, content creation and internal event planning.    
 - Website – Project Direction of new company website, including content, design, development, management and training.
-- Design – Lead on design projects (presentations, websites, misc. graphic design), of institutional investor facing materials.
+- Design – Lead roles on client and internal design projects including development of institutional investor marketing materials, pitch presentations and company documents.
 - IT – Implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
 - Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
 
