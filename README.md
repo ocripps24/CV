@@ -91,7 +91,7 @@ I have always had a passion for learning and been able to dictate my own self-dr
 - Teamwork – Managed a team of five in roles ranging from daily tasks and cross-department workflows to project direction and professional development.
 - Training – Developed onboarding plans for new staff, direction of future development needs, training organisation and held regular workshops at team and company levels.
 - Thinktank – Lead role in formation of the company thinktank, content creation and internal event planning.    
-- Website – Project Direction of new company website, including content, design, development, management and training.
+- Website – Directed redevelopment of the company’s new website, working on every aspect of the process.
 - Design – Lead roles on client and internal design projects including development of institutional investor marketing materials, pitch presentations and company documents.
 - IT – Implementation of new technologies, co-ordination of overall strategy, staff training and internal support.
 - Key projects – ALD IPO, Altran Investor Day, Ardian Presentation Support, Astorg AGM, Azora IPO, Carrefour Investor Day, Coface Investor Day, Ingenico Group Investor Day, JBCM corporate website, SMCP IPO, Eranove IPO, Showroomprive slide design.
