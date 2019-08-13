@@ -53,7 +53,7 @@ Name | Description | Tech | Role | Link
 Through medical school and now working with code, I have built strong analytical frameworks to diagnose issues methodically and construct a pathway to solve and move beyond issues/errors. Particularly as a result of using TDD, I have grown to enjoy debugging. It is an important part of my learning process and I enjoy applying my cross-disciplinary skills to aid this process.
 
 - Most recently I fixed and updated the documentation of our first group <a href="https://github.com/ocripps24/MakersBnb">project</a> at Makers that had failing tests and missing instructions amongst other areas for improvement.
-- I started by reviewing the documentation for the frameworks to rebuild the instruction base and continued by debugging each of the broken tests until they passed. I finished by connecting the project to Travis.
+- I started by reviewing the documentation for the frameworks to rebuild the instruction base and continued by debugging each of the broken tests until they passed. I finished by connecting the project to Travis and deploying it to Heroku.
 
 #### Creativity
 
